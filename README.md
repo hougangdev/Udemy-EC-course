@@ -6,9 +6,9 @@ Checklist for course content:
 - [x] Setting Up of Hacking Lab
 - [x] Linux Operating System
 - [x] Reconnaissance & Information Gathering
-- [ ] Scanning
-- [ ] Python Coding Project #1 - Portscanner
-- [ ] Vulnerability Analysis
+- [x] Scanning
+- [x] Python Coding Project #1 - Portscanner
+- [x] Vulnerability Analysis
 - [ ] Exploitation & Gaining Access
 - [ ] Post Exploitation - Elevating Priviledges, Extracting Data, Running Keyloggers..
 - [ ] Python Coding Project #2 - Backdoor
